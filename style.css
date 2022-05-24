@@ -5,42 +5,37 @@
     margin: 0;
     box-sizing: border-box;
 }
-
-body {
+body{
     height: 100vh;
-    background-color: linear-gradient(
+    background: linear-gradient(
         135deg,
         #ffcf1b,
-
+        #ff8b1b
     );
 }
-
-.container {
+.container{
     width: 45%;
     min-width: 500px;
     background-color: #ffffff;
     padding: 40px 30px;
     position: absolute;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%,-50%);
     top: 50%;
     left: 50%;
     border-radius: 10px;
-    box-shadow: 0 15px 25px rgb(0, 0, 0, 0.15);
+    box-shadow: 0 15px 25px rgba(0,0,0,0.15);
 }
-
-.scores {
+.scores{
     margin-bottom: 50px;
     text-align: right;
 }
-
-.weapons {
+.weapons{
     width: 90%;
     margin: auto;
     display: flex;
     justify-content: space-around;
 }
-
-.weapons button {
+.weapons button{
     background-color: #ffd51b;
     color: #000000;
     border: none;
@@ -51,32 +46,27 @@ body {
     outline: none;
     cursor: pointer;
 }
-
-.details {
+.details{
     margin-top: 30px;
     text-align: center;
 }
-
-.scores,.details {
-    font-family: 'Poppins', sans-serif;
+.scores,.details{
+    font-family: 'Poppins',sans-serif;
     font-weight: 400;
     font-size: 15px;
 }
-
-#result {
+#result{
     width: 180px;
     padding: 10px 0;
     margin: 30px auto;
     font-weight: 600;
     letter-spacing: 0.5px;
 }
-
 #user_choice,
-#computer_choice {
+#computer_choice{
     font-weight: 400;
     margin-bottom: 10px;
 }
-
-span {
+span{
     font-weight: 600;
 }
