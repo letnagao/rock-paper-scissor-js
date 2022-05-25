@@ -1,10 +1,13 @@
 ## Rock, Paper and Scissor Application ✨
 RPS Game using Vanilla JS with CSS3 & HTML.
 
-## Features 🔥
+## Preview 🔥
+<p>
+ <video src="https://user-images.githubusercontent.com/99754900/170153728-65701eea-b39e-4944-b87a-db6a96f67f4a.mp4" />
+</p>
 
 ## Technologies used 🛠️
-**Design**: *JS, CSS & HTML *<br />
+**Design**: *JS, CSS & HTML*<br />
 
 ## Usage 📋
 <details open>
