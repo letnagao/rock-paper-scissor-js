@@ -2,8 +2,6 @@
 RPS Game using Vanilla JS with CSS3 & HTML.
 
 ## Features 🔥
-✔️ Authentication with form account <br />
-✔️ Authentication with email & password <br />
 
 ## Technologies used 🛠️
 **Design**: *JS, CSS & HTML *<br />
