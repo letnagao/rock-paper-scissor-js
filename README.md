@@ -33,5 +33,6 @@ RPS Game using Vanilla JS with CSS3 & HTML.
 ## Contributing 💡
 Pull request are welcome but please open an issue and discuss what you will do before 😊
 
-## License 📄
-This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
+## Like this project? 💖
+
+If you are feeling generous, buy me a coffee! - https://www.buymeacoffee.com/lunagao
