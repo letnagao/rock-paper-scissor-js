@@ -14,10 +14,15 @@ RPS Game using Vanilla JS with CSS3 & HTML.
  <video src="https://user-images.githubusercontent.com/99754900/170153728-65701eea-b39e-4944-b87a-db6a96f67f4a.mp4" />
 </p>
 
-## Technologies used 🛠️
-**Design**: *JS, CSS & HTML*<br />
-
-## Usage 📋
+</ul><h2>Technologies Used 🛠️</h2>
+<ul>
+<li>JS</li>
+</ul><ul>
+<li>HTML</li>
+</ul><ul>
+<li>CSS</li>
+  
+</ul><h2>Usage 📋</h2>
 <details open>
 <summary>1. Server Setup</summary>
 
