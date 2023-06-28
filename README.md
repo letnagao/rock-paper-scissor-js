@@ -9,11 +9,13 @@ RPS Game using Vanilla JS with CSS3 & HTML.
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/rock-paper-scissor-js?logo=GitHub)](https://github.com/letnagao/rock-paper-scissor-js/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
-## Preview 🔥
-<p>
- <video src="https://user-images.githubusercontent.com/99754900/170153728-65701eea-b39e-4944-b87a-db6a96f67f4a.mp4" />
-</p>
-
+</ul><h2> Preview ⚡️</h2>
+<table align="center">
+  <tr>
+    <td><video src="https://user-images.githubusercontent.com/99754900/170153728-65701eea-b39e-4944-b87a-db6a96f67f4a.mp4" width=1280 height=800></td>
+  </tr>
+</table>
+     
 </ul><h2>Technologies Used 🛠️</h2>
 <ul>
 <li>JS</li>
